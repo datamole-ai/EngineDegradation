@@ -1,0 +1,18 @@
+= Assignment: Engine Degradation
+
+== Predicting remaining usefull life (RUL)
+
+Remaining useful life (RUL) is the time at which a system or a component will no longer perform its intended function. This lack of performance is most often a failure beyond which the system can no longer be used to meet desired performance.
+
+=== Data
+
+* The description of the dataset is in the Data.zip archive in the readme.txt file.
+
+=== Tasks of the assignment
+
+- Perform an exploratory analysis of the data.
+- Develop a predictive model for the remaining usefull life of the engine and report its accuracy in terms of R-squared and RMSE error.
+- Explain your process and chosen model.
+
+We suggest you to use Jupyter notebook for this assignment.
+
