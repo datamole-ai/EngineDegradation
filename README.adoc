@@ -14,5 +14,5 @@ Remaining useful life (RUL) is the time at which a system or a component will no
 - Develop a predictive model for the remaining usefull life of the engine and report its accuracy in terms of R-squared and RMSE error.
 - Explain your process and chosen model.
 
-We suggest you to use Jupyter notebook for this assignment.
+We suggest that you use Jupyter notebook for this assignment.
 
